@@ -1,1 +1,3 @@
 test.html
+ssh-keygen -t rsa -C "kikukawa0131@gmail.com"
+ssh-keygen -t rsa -C "kikukawa0131@gmail.com".pub
